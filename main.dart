@@ -7,7 +7,7 @@ class Mahasiswa {
 
   void perkenalan() {
   
-    print("Perkenalkan, nama saya $nama dengan NIM $nim dan usia saya ${DateTime.now().year-tahunLahir}"); 
+    print("Perkenalkan, nama saya $nama dengan NIM $nim dan usia saya ${DateTime.now().year-tahunLahir} tahun"); 
   }
 }
 
